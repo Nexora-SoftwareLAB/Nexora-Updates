@@ -27,7 +27,7 @@ Eğer sürüm farklıysa, uygulama kullanıcıya güncelleme bildirimi gösterir
 ```
 Nexora-Updates/
 ├── version.txt   → En son sürüm numarası
-├── app.zip       → Güncel uygulama dosyası
+├── app.exe       → Güncel uygulama dosyası
 └── README.md     → Bilgilendirme dosyası
 ```
 
