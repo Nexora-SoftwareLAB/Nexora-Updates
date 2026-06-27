@@ -1,0 +1,6 @@
+📜 CHANGELOG V1.0.1 📜
+v1.0.1
+- Nöbet çizelgesi algoritması iyileştirildi (3-3-2 sistemi optimize edildi)
+- Aynı kişinin ardışık nöbet alma ihtimali düşürüldü
+- Excel çıktısında saat formatı 08.30 - 16.30 olarak güncellendi
+- Arayüz stabilitesi artırıldı
